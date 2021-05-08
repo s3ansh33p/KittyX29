@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://raw.githubusercontent.com/KittyX29/KittyX29/main/icons/Screenshot%202021-05-08%20at%2011.16.15%20AM.png)
+[![Header](https://raw.githubusercontent.com/KittyX29/KittyX29/main/icons/Screenshot%202021-05-08%20at%2011.16.15%20AM.png "Header")](https://raw.githubusercontent.com/KittyX29/KittyX29/main/icons/Screenshot%202021-05-08%20at%2011.16.15%20AM.png)
 
 
 
