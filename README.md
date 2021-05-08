@@ -42,9 +42,7 @@ I'm working as an official Bot Developer in Dogegarden [https://github.com/dogeg
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KittyX29&layout=compact&theme=onedark" />
 
 
-<br><br><br> 
-
-
+<br><br>
 
 **Contact me:**
 
