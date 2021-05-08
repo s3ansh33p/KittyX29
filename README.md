@@ -28,7 +28,7 @@ I'm working as an official Bot Developer in Dogegarden [https://github.com/dogeg
 - BF
 - My head?
 
-**My Stats: **
+**My Stats:**
 
 
 <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=KittyX29&count_private=true&include_all_commits=true&theme=onedark" alt="KittyX29" />
