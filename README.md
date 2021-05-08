@@ -49,6 +49,8 @@ I'm working as an official Bot Developer in Dogegarden [https://github.com/dogeg
 
 **Contact me:**
 
+**Contact me:**
+
 Discord : https://discord.com/channels/@me/KittyX29 or you can DM me at: KittyX29#6918
 
 Email   : krishnaramasimha12@gmail.com
