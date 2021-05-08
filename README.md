@@ -20,7 +20,7 @@ I'm working as an official Bot Developer in Dogegarden [https://github.com/dogeg
 - 🔭 I’m currently working making a bot for dogehouse.tv
 - 🌱 I’m currently learning TypeScript, Haskell and Rust 
 - 💬 Ask me about any question if you feel like !
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am dead scared of lizards
 
 **Languages that I use for development:**
 - JavaScript
