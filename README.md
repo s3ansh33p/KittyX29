@@ -1,9 +1,9 @@
 <h3 align="center">
   Welcome to my profile!
-  <img src="https://www.canva.com/design/DAEd3FNsr6M/AYZ095G9fgcDQe2xIEcR9g/watch?utm_content=DAEd3FNsr6M&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" width="28">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](file:///Users/krishnaramasimha/Downloads/Blue%20Hand%20Drawn%20Black%20History%20Month%20Social%20and%20Emotional%20Learning%20Google%20Classroom%20Header.ogg)
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://github.com/KittyX29/KittyX29/blob/main/icons/Screenshot%202021-05-08%20at%2011.16.15%20AM.png?raw=true)
 
 
 
