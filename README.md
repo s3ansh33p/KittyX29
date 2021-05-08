@@ -11,7 +11,13 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&lines=Full+stack+Bot+Developer;Self+taught+programmer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KittyX29)](https://git.io/streak-stats)
+Hey there, 
+My name is Krishna . I'm a school student and a hardcore programmer :) I play guitar and chess.  
+I'm working as an official Bot Developer in Dogegarden [https://github.com/dogegarden] 
+- 🔭 I’m currently working making a bot for dogehouse.tv
+- 🌱 I’m currently learning TypeScript, Haskell and Rust 
+- 💬 Ask me about any question if you feel like !
+- ⚡ Fun fact: ...
 <!--
 **KittyX29/KittyX29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
