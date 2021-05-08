@@ -10,6 +10,8 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&lines=Full+stack+Bot+Developer;Self+taught+programmer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KittyX29)](https://git.io/streak-stats)
 <!--
 **KittyX29/KittyX29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
