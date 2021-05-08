@@ -1,6 +1,6 @@
 <h3 align="center">
   Welcome to my profile!
-  <img src="https://commons.wikimedia.org/wiki/File:Blue_Hand_Drawn_Black_History_Month_Social_and_Emotional_Learning_Google_Classroom_Header.ogg" width="28">
+  <img src="https://www.canva.com/design/DAEd3FNsr6M/AYZ095G9fgcDQe2xIEcR9g/watch?utm_content=DAEd3FNsr6M&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" width="28">
 </h3>
 
 
